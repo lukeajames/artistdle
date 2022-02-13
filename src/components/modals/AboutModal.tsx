@@ -18,6 +18,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
           check out the code here
         </a>{' '}
       </p>
+      <p className="text-sm text-gray-500 dark:text-gray-300">You can listen to all your favourite artists here</p>
     </BaseModal>
   )
 }
