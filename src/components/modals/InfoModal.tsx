@@ -14,7 +14,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         change to show how close your guess was to the word.
       </p>
       
-      <p>
+      <p className="text-sm text-gray-500 dark:text-gray-300">
         All answers are either the first or last name of a popular music artist.
       </p>
 
